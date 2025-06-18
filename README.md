@@ -1,1 +1,3 @@
 # ViT-based-Brain-Tumor-Segmentation
+
+CNN is good at extracting local features and recognizing patterns, while ViT is strong at learning global relationships within an image. Based on these differences, we specifically identify the strengths and weaknesses of the two models in MRI images and compare how effective each model is at detecting brain tumors. In addition, Transformer has shown excellent performance in NLP, but its potential in image analysis, especially medical image analysis, is still in its early stages. This study aims to examine what advantages ViT has over existing CNN-based techniques, and especially how useful it is in clinical applications.
